@@ -1,0 +1,20 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "rude": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "polite": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "rude": "This report is trash. Do it again.",
+    "polite": "This report needs significant improvement. Could you please revise it?",
+    "text": "Rude: This report is trash. Do it again. Polite: This report needs significant improvement. Could you please revise it?"
+  },
+  {
+    "rude": "Why haven't you finished this yet? You're so slow.",
+    "polite": "I noticed this task is still pending. Is there anything blocking your progress?",
+    "text": "Rude: Why haven't you finished this yet? You're so slow. Polite: I noticed this task is still pending. Is there anything blocking your progress?"
+  },
+  {
+    "rude": "Your presentation was boring and made no sense.",
+    "polite": "The presentation could benefit from clearer structure and more engaging content.",
+    "text": "Rude: Your presentation was boring and made no sense. Polite: The presentation could benefit from clearer structure and more engaging content."
+  },
+  {
+    "rude": "Stop wasting everyone's time with stupid questions.",
+    "polite": "Let's try to keep questions focused so we can make the most of everyone's time.",
+    "text": "Rude: Stop wasting everyone's time with stupid questions. Polite: Let's try to keep questions focused so we can make the most of everyone's time."
+  },
+  {
+    "rude": "You clearly have no idea what you're doing.",
+    "polite": "It seems like you might need some additional guidance on this task.",
+    "text": "Rude: You clearly have no idea what you're doing. Polite: It seems like you might need some additional guidance on this task."
+  },
+  {
+    "rude": "I don't care about your excuses. Just get it done.",
+    "polite": "I understand there may be challenges, but it's important we meet this deadline.",
+    "text": "Rude: I don't care about your excuses. Just get it done. Polite: I understand there may be challenges, but it's important we meet this deadline."
+  },
+  {
+    "rude": "This is the worst code I have ever seen in my life.",
+    "polite": "This code needs significant refactoring. Let's discuss some improvements.",
+    "text": "Rude: This is the worst code I have ever seen in my life. Polite: This code needs significant refactoring. Let's discuss some improvements."
+  },
+  {
+    "rude": "You missed the deadline again. Unbelievable.",
+    "polite": "I noticed the deadline was missed again. Can we discuss how to prevent this?",
+    "text": "Rude: You missed the deadline again. Unbelievable. Polite: I noticed the deadline was missed again. Can we discuss how to prevent this?"
+  },
+  {
+    "rude": "Nobody wants to hear your opinion right now.",
+    "polite": "Let's hear from others first, and then we can come back to your thoughts.",
+    "text": "Rude: Nobody wants to hear your opinion right now. Polite: Let's hear from others first, and then we can come back to your thoughts."
+  },
+  {
+    "rude": "Fix this bug immediately or you're off the project.",
+    "polite": "This bug is a priority. Please address it as soon as possible.",
+    "text": "Rude: Fix this bug immediately or you're off the project. Polite: This bug is a priority. Please address it as soon as possible."
+  },
+  {
+    "rude": "Why haven't you replied to my email? It's been days.",
+    "polite": "I wanted to follow up on my previous email. Could you please respond when you get a chance?",
+    "text": "Rude: Why haven't you replied to my email? It's been days. Polite: I wanted to follow up on my previous email. Could you please respond when you get a chance?"
+  },
+  {
+    "rude": "Your email made absolutely no sense whatsoever.",
+    "polite": "I had some difficulty understanding your email. Could you please clarify?",
+    "text": "Rude: Your email made absolutely no sense whatsoever. Polite: I had some difficulty understanding your email. Could you please clarify?"
+  },
+  {
+    "rude": "Stop sending me useless updates. I don't need them.",
+    "polite": "Could we streamline our updates to focus only on key developments?",
+    "text": "Rude: Stop sending me useless updates. I don't need them. Polite: Could we streamline our updates to focus only on key developments?"
+  },
+  {
+    "rude": "This is not what I asked for at all. Read properly.",
+    "polite": "This doesn't quite match what was requested. Could you please review the requirements?",
+    "text": "Rude: This is not what I asked for at all. Read properly. Polite: This doesn't quite match what was requested. Could you please review the requirements?"
+  },
+  {
+    "rude": "You always send incomplete information. So annoying.",
+    "polite": "It would be helpful to receive complete information in future communications.",
+    "text": "Rude: You always send incomplete information. So annoying. Polite: It would be helpful to receive complete information in future communications."
+  },
+  {
+    "rude": "Your idea is stupid and won't work.",
+    "polite": "I have some concerns about this approach. Could we explore alternative solutions?",
+    "text": "Rude: Your idea is stupid and won't work. Polite: I have some concerns about this approach. Could we explore alternative solutions?"
+  },
+  {
+    "rude": "You're dragging the whole team down.",
+    "polite": "I think we need to discuss how we can better align your work with the team's goals.",
+    "text": "Rude: You're dragging the whole team down. Polite: I think we need to discuss how we can better align your work with the team's goals."
+  },
+  {
+    "rude": "Stop interrupting me when I'm talking.",
+    "polite": "I'd appreciate the opportunity to finish my thought before we discuss further.",
+    "text": "Rude: Stop interrupting me when I'm talking. Polite: I'd appreciate the opportunity to finish my thought before we discuss further."
+  },
+  {
+    "rude": "You never listen to anything anyone says.",
+    "polite": "I feel like some of my points may not be coming across clearly. Can we revisit them?",
+    "text": "Rude: You never listen to anything anyone says. Polite: I feel like some of my points may not be coming across clearly. Can we revisit them?"
+  },
+  {
+    "rude": "This team is completely incompetent.",
+    "polite": "I think we have some opportunities to improve our team's performance and processes.",
+    "text": "Rude: This team is completely incompetent. Polite: I think we have some opportunities to improve our team's performance and processes."
+  },
+  {
+    "rude": "Your product is garbage and a waste of money.",
+    "polite": "I'm disappointed with the product and feel it didn't meet my expectations.",
+    "text": "Rude: Your product is garbage and a waste of money. Polite: I'm disappointed with the product and feel it didn't meet my expectations."
+  },
+  {
+    "rude": "Your customer service is absolutely terrible.",
+    "polite": "I've had a frustrating experience with customer support and would appreciate better assistance.",
+    "text": "Rude: Your customer service is absolutely terrible. Polite: I've had a frustrating experience with customer support and would appreciate better assistance."
+  },
+  {
+    "rude": "I've been waiting forever. This is ridiculous.",
+    "polite": "I've been waiting for quite some time. Could you provide an update on my request?",
+    "text": "Rude: I've been waiting forever. This is ridiculous. Polite: I've been waiting for quite some time. Could you provide an update on my request?"
+  },
+  {
+    "rude": "Nobody here knows what they're doing.",
+    "polite": "I feel the support I received wasn't adequate. Could I speak with someone more experienced?",
+    "text": "Rude: Nobody here knows what they're doing. Polite: I feel the support I received wasn't adequate. Could I speak with someone more experienced?"
+  }
+]

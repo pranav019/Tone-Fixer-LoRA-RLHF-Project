@@ -1,0 +1,32 @@
+[
+  {
+    "rude": "This is the last time I use your useless service.",
+    "polite": "I've been quite dissatisfied with the service and am considering other options.",
+    "text": "Rude: This is the last time I use your useless service. Polite: I've been quite dissatisfied with the service and am considering other options."
+  },
+  {
+    "rude": "This design looks absolutely horrible.",
+    "polite": "I think this design could be improved. Could we explore some alternative directions?",
+    "text": "Rude: This design looks absolutely horrible. Polite: I think this design could be improved. Could we explore some alternative directions?"
+  },
+  {
+    "rude": "Did you even try on this assignment?",
+    "polite": "This assignment doesn't quite meet the expected standard. Let's discuss how to improve it.",
+    "text": "Rude: Did you even try on this assignment? Polite: This assignment doesn't quite meet the expected standard. Let's discuss how to improve it."
+  },
+  {
+    "rude": "Your writing is terrible and hard to read.",
+    "polite": "The writing could benefit from improved clarity and structure.",
+    "text": "Rude: Your writing is terrible and hard to read. Polite: The writing could benefit from improved clarity and structure."
+  },
+  {
+    "rude": "This is a complete waste of my time to review.",
+    "polite": "This work needs more preparation before it's ready for review.",
+    "text": "Rude: This is a complete waste of my time to review. Polite: This work needs more preparation before it's ready for review."
+  },
+  {
+    "rude": "How did you even get hired with skills like this?",
+    "polite": "I think there are some skill areas we should focus on developing together.",
+    "text": "Rude: How did you even get hired with skills like this? Polite: I think there are some skill areas we should focus on developing together."
+  }
+]
